@@ -25,11 +25,10 @@
 ---
 
 ### 💡 Recomendación de Negocio (ROI)
-**"Se recomienda implementar disparadores de ofertas (Exit-Intent Popups) cuando la IA detecte niveles altos de ExitRates en páginas de alto valor. Además, enfocar el presupuesto de marketing en la captación de tráfico nuevo durante Noviembre para maximizar el retorno de inversión."**
+**Se recomienda implementar disparadores de ofertas (Exit-Intent Popups) cuando la IA detecte niveles altos de ExitRates en páginas de alto valor. Además, enfocar el presupuesto de marketing en la captación de tráfico nuevo durante Noviembre para maximizar el retorno de inversión.**
 
 ---
 
 ### ⚙️ Especificaciones Técnicas
 *   **Motor de IA:** Random Forest Classifier con balanceo de clases.
-*   **Dataset:** UCI Online Shoppers Purchasing Intention.
 *   **Métricas:** 89% Accuracy Global.
