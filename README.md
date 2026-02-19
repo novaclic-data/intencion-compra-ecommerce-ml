@@ -1,4 +1,4 @@
-# 🛒 Inteligencia de Ventas: Predicción de Intención de Compra en E-commerce
+# 🛒 CAPÍTULO 1:Inteligencia de Ventas: Predicción de Intención de Compra en E-commerce
 
 ![Status](https://img.shields.io)
 ![IA-Accuracy](https://img.shields.io)
@@ -32,3 +32,24 @@
 ### ⚙️ Especificaciones Técnicas
 *   **Motor de IA:** Random Forest Classifier con balanceo de clases.
 *   **Métricas:** 89% Accuracy Global.
+
+  
+--------
+
+
+# 💎 CAPÍTULO 2: Segmentación de Clientes de Alto Valor (RFM)
+
+### 🕵️ El Desafío: "¿Quiénes son mis clientes reales?"
+En un océano de 541,000 transacciones, el objetivo fue identificar micro-segmentos de clientes basados en su comportamiento de compra (Recency, Frequency, Monetary).
+
+### 🔍 Hallazgos de Inteligencia de Negocio:
+1.  **Segmento 111 (Champions):** Identificamos un grupo de élite que compra con alta frecuencia y gasto superior. 🏆
+2.  **Fuga de Capital:** Detectamos clientes "Ballena" (alto gasto) que no han regresado en más de 300 días.
+3.  **Potencial de Crecimiento:** El 25% de la base de clientes son "Nuevos Prometedores" con Recency bajo pero Frequency aún en desarrollo.
+
+### 📊 Evidencias Visuales:
+![Segmentos de Oro](01_segmentos_gasto.png)
+![Mapa de Calor](02_mapa_calor_clientes.png)
+
+### 💡 Recomendación Estratégica (ROI)
+**Implementar un programa de fidelización exclusivo para el segmento 111 para asegurar su retención. Simultáneamente, lanzar una campaña de 'Reactivación VIP' para los clientes de alto gasto con Recency > 200 días para recuperar capital dormido.**
