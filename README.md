@@ -51,10 +51,15 @@ En un océano de 541,000 transacciones, el objetivo fue identificar micro-segmen
 3.  **Potencial de Crecimiento:** El 25% de la base de clientes son "Nuevos Prometedores" con Recency bajo pero Frequency aún en desarrollo.
 
 ### 📊 Evidencias Visuales:
+Más allá de predecir una compra, este análisis divide a la base de clientes en grupos de valor real mediante la metodología **RFM (Recency, Frequency, Monetary)**.
+
+*   **Poder de Segmentación:** Procesamos más de 390,000 transacciones para identificar a los **4,339 clientes únicos**.
+*   **Identificación VIP:** El modelo separó con éxito a los clientes "Champions" (111) de aquellos en riesgo de abandono (441), permitiendo estrategias de marketing diferenciadas.
 ![Segmentos de Oro](01_segmentos_gasto.png)
 
 
 ![Mapa de Calor](02_mapa_calor_clientes.png)
+*Análisis Técnico: El gráfico muestra la densidad de clientes activos (baja Recencia) frente a su frecuencia de compra. Los puntos brillantes representan el **Life Time Value (LTV)** más alto para el negocio.*
 
 ---
 
