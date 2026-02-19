@@ -30,7 +30,7 @@
 ---
 
 ### ⚙️ Especificaciones Técnicas
-*   **Motor de IA:** Random Forest Classifier con balanceo de clases.
+*   **Motor de IA:** Random Forest Classifier con balanceo de clases.  
 *   **Métricas:** 89% Accuracy Global.
 
 *   ##### ✨ **Nota Técnica** 
@@ -63,5 +63,9 @@ En un océano de 541,000 transacciones, el objetivo fue identificar micro-segmen
 
 ---
 
+### ⚙️ Especificaciones Técnicas 
+*   **Metodologías:**Segmentación Conductual (RFM Analysis).
+*   **Tratamiento de Datos:** Manejo de Outliers en ejes visuales y limpieza de nulos en IDs de cliente.
+*   
 ##### ✨ **Nota Técnica** 
 ##### El modelo entrenado (.pkl) no se incluye en el repositorio debido a restricciones de tamaño de GitHub y protocolos de seguridad, pero está disponible para su despliegue en entornos controlados.
