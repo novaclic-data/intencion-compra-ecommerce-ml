@@ -1,4 +1,4 @@
-# 🛒 CAPÍTULO 1:Inteligencia de Ventas: Predicción de Intención de Compra en E-commerce
+# 🛒 CAPÍTULO 1: Inteligencia de Ventas: Predicción de Intención de Compra en E-commerce
 
 ![Status](https://img.shields.io)
 ![IA-Accuracy](https://img.shields.io)
@@ -33,6 +33,9 @@
 *   **Motor de IA:** Random Forest Classifier con balanceo de clases.
 *   **Métricas:** 89% Accuracy Global.
 
+*   ##### ✨ **Nota Técnica** 
+##### El modelo entrenado (.pkl) no se incluye en el repositorio debido a restricciones de tamaño de GitHub y protocolos de seguridad, pero está disponible para su despliegue en entornos controlados.
+
   
 --------
 
@@ -53,3 +56,7 @@ En un océano de 541,000 transacciones, el objetivo fue identificar micro-segmen
 
 ### 💡 Recomendación Estratégica (ROI)
 **Implementar un programa de fidelización exclusivo para el segmento 111 para asegurar su retención. Simultáneamente, lanzar una campaña de 'Reactivación VIP' para los clientes de alto gasto con Recency > 200 días para recuperar capital dormido.**
+
+
+##### ✨ **Nota Técnica** 
+##### El modelo entrenado (.pkl) no se incluye en el repositorio debido a restricciones de tamaño de GitHub y protocolos de seguridad, pero está disponible para su despliegue en entornos controlados.
