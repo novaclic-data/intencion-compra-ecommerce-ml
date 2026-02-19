@@ -52,6 +52,8 @@ En un océano de 541,000 transacciones, el objetivo fue identificar micro-segmen
 
 ### 📊 Evidencias Visuales:
 ![Segmentos de Oro](01_segmentos_gasto.png)
+
+
 ![Mapa de Calor](02_mapa_calor_clientes.png)
 
 ### 💡 Recomendación Estratégica (ROI)
