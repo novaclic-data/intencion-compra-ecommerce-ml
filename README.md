@@ -56,9 +56,12 @@ En un océano de 541,000 transacciones, el objetivo fue identificar micro-segmen
 
 ![Mapa de Calor](02_mapa_calor_clientes.png)
 
+---
+
 ### 💡 Recomendación Estratégica (ROI)
 **Implementar un programa de fidelización exclusivo para el segmento 111 para asegurar su retención. Simultáneamente, lanzar una campaña de 'Reactivación VIP' para los clientes de alto gasto con Recency > 200 días para recuperar capital dormido.**
 
+---
 
 ##### ✨ **Nota Técnica** 
 ##### El modelo entrenado (.pkl) no se incluye en el repositorio debido a restricciones de tamaño de GitHub y protocolos de seguridad, pero está disponible para su despliegue en entornos controlados.
