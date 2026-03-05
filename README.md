@@ -9,11 +9,7 @@
 - **Predictive Logic:** [Key indicators of purchase intent (AI features)](03_purchase_intent_features.png)
 - **Loyalty Segments:** [Customer segmentation by engagement and RFM score](04_rfm_customer_segments.png)
 
-#### 🖼️ Visual Evidence:
-![Monthly Conversion](01_monthly_conversion_ranking.png)
-![Page Value Impact](02_page_value_impact.png)
-![Purchase Intent](03_purchase_intent_features.png)
-![Customer Segments](04_rfm_customer_segments.png)
+
 
 ### 🕵️ The Business Challenge (ROI Focus)
 Why do 84% of users abandon the store without purchasing? We analyzed 12,330 web sessions to identify key conversion patterns. The goal is to optimize the Customer Journey and maximize Return on Investment (ROI) through Artificial Intelligence.
