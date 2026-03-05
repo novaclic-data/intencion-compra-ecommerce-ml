@@ -77,7 +77,7 @@ Más allá de predecir una compra, este análisis divide a la base de clientes e
 
 *   **Poder de Segmentación:** Procesamos más de 390,000 transacciones para identificar a los **4,339 clientes únicos**.
 *   **Identificación VIP:** El modelo separó con éxito a los clientes "Champions" (111) de aquellos en riesgo de abandono (441), permitiendo estrategias de marketing diferenciadas.
-![Segmentos de Oro](01_segmentos_gasto.png)
+![Segmentos de Oro]()
 
 
 ![Mapa de Calor](02_mapa_calor_clientes.png)
