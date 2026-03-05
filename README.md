@@ -62,37 +62,44 @@ PageValues and ExitRates account for 70% of the model's decision-making process.
 --------
 
 
-# 💎 CAPÍTULO 2: Segmentación de Clientes de Alto Valor (RFM)
+# 💎 CHAPTER 2: High-Value Customer Segmentation (RFM Analysis)
 
-### 🕵️ El Desafío: "¿Quiénes son mis clientes reales?"
-En un océano de 541,000 transacciones, el objetivo fue identificar micro-segmentos de clientes basados en su comportamiento de compra (Recency, Frequency, Monetary).
+![Status](https://img.shields.io)
+![Sector](https://img.shields.io)
 
-### 🔍 Hallazgos de Inteligencia de Negocio:
-1.  **Segmento 111 (Champions):** Identificamos un grupo de élite que compra con alta frecuencia y gasto superior. 🏆
-2.  **Fuga de Capital:** Detectamos clientes "Ballena" (alto gasto) que no han regresado en más de 300 días.
-3.  **Potencial de Crecimiento:** El 25% de la base de clientes son "Nuevos Prometedores" con Recency bajo pero Frequency aún en desarrollo.
+### 🕵️ The Business Challenge: "Who are my real customers?"
+In a sea of **541,000 transactions**, the goal was to identify micro-segments of customers based on their purchasing behavior: **Recency, Frequency, and Monetary (RFM)**.
 
-### 📊 Evidencias Visuales:
-Más allá de predecir una compra, este análisis divide a la base de clientes en grupos de valor real mediante la metodología **RFM (Recency, Frequency, Monetary)**.
+### 🔍 Business Intelligence Insights:
+1. **Segment 111 (Champions):** Identified an elite group with high purchase frequency and superior spending. 🏆
+2. **Capital Leakage:** Detected "Whale" customers (high spenders) who haven't returned in over 300 days.
+3. **Growth Potential:** 25% of the customer base are "Promising Newbies" with low Recency but developing Frequency.
 
-*   **Poder de Segmentación:** Procesamos más de 390,000 transacciones para identificar a los **4,339 clientes únicos**.
-*   **Identificación VIP:** El modelo separó con éxito a los clientes "Champions" (111) de aquellos en riesgo de abandono (441), permitiendo estrategias de marketing diferenciadas.
-![Segmentos de Oro](01_customer_segments_spending.png)
+### 📊 Strategic Visual Insights:
+This analysis categorizes the customer base into real value groups to drive targeted marketing strategies.
 
+- **Segmentation Power:** [Top 10 customer segments by average spending](01_customer_segments_spending.png)
+- **Behavioral Patterns:** [Customer Behavior Heatmap: Recency vs. Frequency](02_customer_behavior_heatmap.png)
 
-![Mapa de Calor](02_customer_behavior_heatmap.png)
-*Análisis Técnico: El gráfico muestra la densidad de clientes activos (baja Recencia) frente a su frecuencia de compra. Los puntos brillantes representan el **Life Time Value (LTV)** más alto para el negocio.*
+### 🖼️ Visual Evidence:
+![Customer Segments](01_customer_segments_spending.png)
+*Insight: Identifying the '111' Champions allows for exclusive loyalty programs.*
+
+![Behavioral Heatmap](02_customer_behavior_heatmap.png)
+*Technical Analysis: Bright spots represent the highest **Customer Lifetime Value (LTV)**. The chart reveals the density of active customers versus their purchase frequency.*
 
 ---
 
-### 💡 Recomendación Estratégica (ROI)
-**Implementar un programa de fidelización exclusivo para el segmento 111 para asegurar su retención. Simultáneamente, lanzar una campaña de 'Reactivación VIP' para los clientes de alto gasto con Recency > 200 días para recuperar capital dormido.**
+### 💡 Strategic Recommendation (ROI)
+**Implement an exclusive loyalty program for Segment 111 to ensure retention. Simultaneously, launch a 'VIP Reactivation' campaign for high-spending customers with Recency > 200 days to recover dormant capital.**
 
 ---
 
-### ⚙️ Especificaciones Técnicas 
-*   **Metodologías:**Segmentación Conductual (RFM Analysis).
-*   **Tratamiento de Datos:** Manejo de Outliers en ejes visuales y limpieza de nulos en IDs de cliente.
-*   
-##### ✨ **Nota Técnica** 
-##### El modelo entrenado (.pkl) no se incluye en el repositorio debido a restricciones de tamaño de GitHub y protocolos de seguridad, pero está disponible para su despliegue en entornos controlados.
+### ⚙️ Technical Specifications
+* **Methodologies:** Behavioral Segmentation (RFM Analysis).
+* **Data Processing:** Outlier handling in visual axes and CustomerID null cleansing.
+* **Tools:** Python (Pandas, Matplotlib, Seaborn).
+
+  
+##### ✨ Technical Note
+The processed dataset and model logic are documented for scalability but (.pkl) files are excluded from this repository due to security protocols and file size limits. They are available for deployment in controlled environments
