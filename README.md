@@ -66,6 +66,11 @@ PageValues and ExitRates account for 70% of the model's decision-making process.
 
 ![Status](https://img.shields.io)
 ![Sector](https://img.shields.io)
+### 📊 Strategic Visual Insights:
+This analysis categorizes the customer base into real value groups to drive targeted marketing strategies.
+
+- **Segmentation Power:** [Top 10 customer segments by average spending](01_customer_segments_spending.png)
+- **Behavioral Patterns:** [Customer Behavior Heatmap: Recency vs. Frequency](02_customer_behavior_heatmap.png)
 
 ### 🕵️ The Business Challenge: "Who are my real customers?"
 In a sea of **541,000 transactions**, the goal was to identify micro-segments of customers based on their purchasing behavior: **Recency, Frequency, and Monetary (RFM)**.
@@ -75,11 +80,6 @@ In a sea of **541,000 transactions**, the goal was to identify micro-segments of
 2. **Capital Leakage:** Detected "Whale" customers (high spenders) who haven't returned in over 300 days.
 3. **Growth Potential:** 25% of the customer base are "Promising Newbies" with low Recency but developing Frequency.
 
-### 📊 Strategic Visual Insights:
-This analysis categorizes the customer base into real value groups to drive targeted marketing strategies.
-
-- **Segmentation Power:** [Top 10 customer segments by average spending](01_customer_segments_spending.png)
-- **Behavioral Patterns:** [Customer Behavior Heatmap: Recency vs. Frequency](02_customer_behavior_heatmap.png)
 
 ### 🖼️ Visual Evidence:
 ![Customer Segments](01_customer_segments_spending.png)
